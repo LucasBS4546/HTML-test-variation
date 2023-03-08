@@ -1,0 +1,22 @@
+body { margin: 0px;}
+header { margin: 0px; background:linear-gradient(320deg, darkgreen, rgb(0, 165, 0), darkgreen);}
+main { margin:0px; padding: 150px; padding-top: 70px; background:linear-gradient(320deg, rgb(190, 238, 190), lightgreen, lightgreen);}
+footer { margin: 0px; background-color: darkgreen; padding: 20px}
+
+
+img {height: 200px; border-radius: 16px; border: solid 4px green; margin-inline: 5px;}
+h1 {text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+h2 {text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+p {text-align: center; font-size:25px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+a {color: rgb(0, 63, 0);}
+
+h1#bemvindo { text-decoration: underline; font-size: 50px; color: rgb(0,255,0);}
+h2#lembrete { background-color:darkgreen; color:lightgreen; margin: 0;}
+h1#sectiontitle {color:rgb(0, 63, 0);}
+h1#sectiontitle:hover {color: darkgreen}
+h1#sectiontitle:active {color:lightgreen}
+a:hover {color:darkgreen}
+a:active {color:lightgreen}
+a#sectionimage {display: flex; align-items: center; justify-content: center;}
+img:hover {border: solid 4px lightgreen}
+h2#footertext {margin: 0px; font-size:25px; color:rgb(0,255,0);}
